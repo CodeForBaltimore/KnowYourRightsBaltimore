@@ -1,4 +1,4 @@
-# grundgesetz-skeleton
+# Know Your Rights Baltimore
 
 > You have a documentation. I turn them into a website. Any questions?
 
